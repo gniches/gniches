@@ -10,7 +10,7 @@
 - :briefcase: I’m currently working at [Growdev](https://www.growdev.com.br/)
 - :student: Graduated in Systems Analysis and Development at [UCPel](https://ucpel.edu.br/) and International Relations at [UFPel](https://portal.ufpel.edu.br/)
 - :books: I’m currently learning **NestJs, Devops and MicroServices**
-- 📝 I regularly write articles on [https://dev.to/gniches](https://dev.to/gniches)
+- 📝 I regularly write articles on [Dev.to](https://dev.to/gniches)
 
 <hr />
 
